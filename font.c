@@ -1,0 +1,8 @@
+#include "font.h"
+
+
+int color(int c)
+{
+    SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), c);        //更改文字颜色
+	return 0;
+}

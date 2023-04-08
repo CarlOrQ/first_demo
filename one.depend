@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1680356250 source:e:\txt\codetxt\one\main.c
+	<stdio.h>
+	<stdlib.h>
+	"window.h"
+
+1680012928 source:e:\txt\codetxt\one\keyboard.c
+	"keyboard.h"
+
+1680012925 e:\txt\codetxt\one\include\keyboard.h
+
+1680356066 source:e:\txt\codetxt\one\window.c
+	"window.h"
+	"font.h"
+	<stdio.h>
+	"build.h"
+
+1680016603 e:\txt\codetxt\one\include\window.h
+	<windows.h>
+	<time.h>
+	<string.h>
+
+1680014585 source:e:\txt\codetxt\one\font.c
+	"font.h"
+
+1680014623 e:\txt\codetxt\one\include\font.h
+	"window.h"
+
+1680356831 source:e:\txt\codetxt\one\build.c
+	"build.h"
+	<stdio.h>
+	"file.h"
+
+1680356748 e:\txt\codetxt\one\include\build.h
+	"window.h"
+
+1680238016 source:e:\txt\codetxt\one\file.c
+	"file.h"
+	<stdio.h>
+	<string.h>
+
+1680238016 e:\txt\codetxt\one\include\file.h
+	"build.h"
+
